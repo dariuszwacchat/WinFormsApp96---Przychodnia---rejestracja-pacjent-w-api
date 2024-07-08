@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Lekarze\LekarzCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Lekarze\LekarzEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Lekarze\LekarzeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Pacjenci\CreatePacjent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pacjenci\EditPacjent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pacjenci\PacjenciUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Rejestracje\CreateRejestracja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Rejestracje\EditRejestracja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Rejestracje\PacjentSzukaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Rejestracje\RejestracjeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\RejestratorPrac\RejestratorPracUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\RejestratorPrac\RejestratorPracyCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RejestratorPrac\RejestratorPracyEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Roles\RoleCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Roles\RoleEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Roles\RolesUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Specjalizacje\SpecjalizacjaCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Specjalizacje\SpecjalizacjaEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Specjalizacje\SpecjalizacjeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
